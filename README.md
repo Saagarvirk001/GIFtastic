@@ -4,7 +4,7 @@ GIFtastic is a cartoon-themed GIF generator.
 
 ## How to Use
 
-Click <a href = "https://youtu.be/qJJkcRRzHhk">here</a> to watch a video demo of GIFtastic.
+Click <a href = "https://youtu.be/BpsMz6LxC6k">here</a> to watch a video demo of GIFtastic.
 
 To run the program, click <a href = "https://lkanand.github.io/GIFtastic">here</a>.
 
