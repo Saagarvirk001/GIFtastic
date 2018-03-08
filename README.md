@@ -1,6 +1,6 @@
-# GIFTastic
+# GIFtastic
 
-GIFTastic is a cartoon-themed GIF generator. 
+GIFtastic is a cartoon-themed GIF generator. 
 
 ## How to Use
 
