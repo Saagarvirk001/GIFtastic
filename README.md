@@ -4,7 +4,9 @@ GIFTastic is a cartoon-themed GIF generator.
 
 ## How to Use
 
-To use GIFTastic, click <a href = "https://lkanand.github.io/GIFtastic">here</a>.
+Click <a href = "https://youtu.be/qJJkcRRzHhk">here</a> to watch a video demo of GIFtastic.
+
+To run the program, click <a href = "https://lkanand.github.io/GIFtastic">here</a>.
 
 Users may click on one of the buttons labeled with the title of a cartoon show to view ten relevant GIFs from <a href = "https://giphy.com">GIPHY</a>. If a user would like to see GIFs from a cartoon show that does not already have a button, he / she can create a new button by filling out and submitting the form on the right portion of the screen. After doing so, the user can click on the newly created button to generate GIFs from that cartoon show.
 
